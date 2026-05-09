@@ -25,8 +25,8 @@
 
 <br clear="all" />
 
-<h2 align="center"> <img src="image/icon-icons.svg" width="25"/> <i>Hobbies & Goals</i> </h2>
-
+<h2 align="center"> <img src="image/icon-icons.svg" width="25"/> <i>Hobbies </i> </h2>
+<!-- & Goals -->
 <img src="https://play.pokemonshowdown.com/sprites/xyani/blastoise-mega.gif" width="180" align="left" style="margin-right: 20px;" />
 
 <p align="center">

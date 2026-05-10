@@ -1,3 +1,5 @@
+<div style="max-width: 850px; min-width: 320px; margin: 0 auto;">
+
 <p align="center">
   <img src="image/BanerGit.jpeg" width="100%"/>
 </p>
@@ -25,8 +27,8 @@
 
 <br clear="all" />
 
-<h2 align="center"> <img src="image/icon-icons.svg" width="25"/> <i>Hobbies </i> </h2>
-<!-- & Goals -->
+<h2 align="center"> <img src="image/icon-icons.svg" width="25"/> <i>Hobbies & Goals</i> </h2>
+
 <img src="https://play.pokemonshowdown.com/sprites/xyani/blastoise-mega.gif" width="180" align="left" style="margin-right: 20px;" />
 
 <p align="center">
@@ -64,8 +66,11 @@
   <img src="https://img.shields.io/badge/Notion-5483B3?style=for-the-badge&logo=notion&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-5483B3?style=for-the-badge&logo=claude&logoColor=white" />
 </p>
+
 <h2 align="center"> <img src="image/icon-icons.svg" width="25"/> <i>Statistics</i> </h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AljndroAcsta&bg_color=021024&color=C1E8FF&line=5483B3&point=C1E8FF&area=true&hide_border=false" width="100%"/>
 </p>
+
+</div>

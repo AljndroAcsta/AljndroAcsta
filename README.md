@@ -21,7 +21,7 @@
 <h2 align="center"> <img src="image/icon-icons.svg" width="20"/> <i>About Me</i> </h2>
 
 <p align="center">
-  <img src="image/imageAvatar.png" width="160" align="left" style="margin-right: 30px; margin-left: 20px;">
+  <img src="image/imageAvatar.png" width="270" align="left" style="margin-right: 30px; margin-left: 20px;">
   Hello! My name is <b>Alejandro Noguera</b>, and I am a Software Engineering student. I am passionate about learning new technologies, developing innovative projects, and solving complex problems through programming. Currently, I am honing my skills in <b>JavaScript, React.js, Java, Spring Boot, and SQL</b>, focusing on building robust applications and continuously growing within the tech industry.
 </p>
 

@@ -5,15 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alejandro-noguera-297bb726b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-141210?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://pin.it/1o3t0PEuc" target="_blank">
-    <img src="https://img.shields.io/badge/Pinterest-141210?style=for-the-badge&logo=pinterest&logoColor=white" />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=alejandronoguera465@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-141210?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/alejandro-noguera-297bb726b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-141210?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://pin.it/1o3t0PEuc" target="_blank"><img src="https://img.shields.io/badge/Pinterest-141210?style=for-the-badge&logo=pinterest&logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=alejandronoguera465@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-141210?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <h2 align="center"><i>Technologies</i> </h2>
@@ -65,7 +59,7 @@
 
 <p>
   <img src="https://media.valorant-api.com/agents/5f8d3a7f-467b-97f3-062c-13acf203c006/abilities/ability2/displayicon.png" width="30" style="vertical-align: middle;" /> 
-  <b style="font-size: 24px; vertical-align: middle; margin: 0 10px;">Main Breach</b> 
+  <span style="font-size: 24px; font-weight: bold; vertical-align: middle; margin: 0 10px;">Main Breach</span> 
   <img src="https://media.valorant-api.com/agents/5f8d3a7f-467b-97f3-062c-13acf203c006/abilities/ultimate/displayicon.png" width="30" style="vertical-align: middle;" />
 </p>
 

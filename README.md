@@ -12,7 +12,7 @@
 
 <h2 align="center"><i>Technologies</i></h2>
 
-<div style="display: inline_block, align= center">
+<div style="display: inline_block">
   <img src="https://img.shields.io/badge/Linux-141210?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-141210?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-141210?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />

@@ -3,7 +3,6 @@
 <p align="center">
   <img src="image/BanerGit.png" width="100%"/>
 </p>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/alejandro-noguera-297bb726b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-141210?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://pin.it/1o3t0PEuc" target="_blank"><img src="https://img.shields.io/badge/Pinterest-141210?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" /></a>
@@ -11,7 +10,6 @@
 </div>
 
 <h2 align="center"><i>Technologies</i></h2>
-
 <div align="center">
   <img src="https://img.shields.io/badge/Linux-141210?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-141210?style=for-the-badge&logo=git&logoColor=white" alt="Git" />

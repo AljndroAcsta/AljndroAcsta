@@ -3,14 +3,16 @@
 <p align="center">
   <img src="image/BanerGit.png" width="100%"/>
 </p>
-<div align="center">
+<div <div style="display: flex;" align="center">
   <a href="https://www.linkedin.com/in/alejandro-noguera-297bb726b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-141210?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://pin.it/1o3t0PEuc" target="_blank"><img src="https://img.shields.io/badge/Pinterest-141210?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" /></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=alejandronoguera465@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-141210?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </div>
 
-<h2 align="center"><i>Technologies</i></h2>
-<div align="center">
+<h2 align="center">
+  <i>Technologies</i>
+</h2>
+<div style="display: flex;" align="center">
   <img src="https://img.shields.io/badge/Linux-141210?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-141210?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-141210?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -30,7 +32,9 @@
   <img src="https://img.shields.io/badge/Claude-5E4023?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
 </div>
 
-<h2 align="center"><i>Statistics</i> </h2>
+<h2 align="center">
+  <i>Statistics</i>
+</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AljndroAcsta&bg_color=141210&color=C2935B&line=C9850D&point=F3B211&area=true&hide_border=false" width="100%"/>
@@ -38,7 +42,9 @@
 
 <br/>
 
-<h2 align="center"> <i>About Me & Hobbies</i> </h2>
+<h2 align="center"> 
+  <i>About Me & Hobbies</i> 
+</h2>
 
 <img src="https://play.pokemonshowdown.com/sprites/xyani/raichu.gif" width="120" align="right" style="margin-left: 20px;" />
 
@@ -51,5 +57,4 @@
   <i>"A man without studies is an incomplete being"</i> — <b>Simón Bolívar</b>.
 </p>
 <br clear="all" />
-
 </div>
